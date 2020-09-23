@@ -1,3 +1,14 @@
+CXF pom.xml
+
+		<dependency>
+			<groupId>org.apache.cxf</groupId>
+			<artifactId>cxf-rt-transports-http-jetty</artifactId>
+			<version>3.2.5</version>
+		</dependency>
+
+
+
+Bindging --------------- 
 # CodeBase
 code base repository
 
